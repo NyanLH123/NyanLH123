@@ -1,11 +1,35 @@
-Hello, I'm Nyan Linn Htet 👋<br><br>**🚀MERN Stack Developer | Project Management Enthusiast** <br><br>I am a web developer focused on building scalable, modular applications using the **MERN stack**. Currently, I am refining my foundations in **Node.js** and **MongoDB** while transitioning toward **Next.js** and **AI Engineering**. <br><br>Beyond coding, I am passionate about **Program Development** and structured project management, ensuring that technical solutions align with business goals.<br><br>---<br><br>**🛠 My Daily Toolbox** <br>- **Frontend:** React.js, Tailwind CSS, Vite<br>- **Backend:** Node.js, Express.js  |  PHP, Python<br>- **Database:** MongoDB (MERN Stack)  |  MySQL<br>- **Tools:** Git, GitHub Projects, Figma<br>- **Learning Path:** Next.js 🔄 Machine Learning & AI Integration<br><br>---<br><br>**📂 Featured Projects**<br><br>**[Marketplace Frontend](https://github.com/NyanLH123/Marketplace-)**  <br>**React | Tailwind | Vite**<br>- Emphasizes **modular component architecture** and **UI reusability**.<br>- Built with a mobile-first approach to master structured frontend maintenance.<br><br> **[Blog Website](https://github.com/NyanLH123/Blog-Website)**  <br>**PHP | MVC Architecture**<br>- Demonstrates deep understanding of **Controller logic** and the **Singleton pattern**.<br>- Focused on clean data handling and architectural foundations.<br><br>---<br><br>**📈 Future Trajectory** <br>- 🌱 Currently deep-diving into **Node.js performance** and **MongoDB aggregation**.<br>- 🤖 Building the foundation for **AI Engineering** and **Machine Learning** integration.<br>- 🏗️ Evolving my **Project Management** skills through structured program development.<br><br>---<br><br> **📫 Connect with me** <br>- 💼 [LinkedIn](https://www.linkedin.com/in/nyan-linn-htet-50542a378/)<br>- 📧 [Email](shosuke48@gmail.com)<br><br>![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent) 
+<div align="center">
 
+# Hello, I am Nyan Linn Htet 👨‍💻
+**Web Developer | NCC Level 5 Diploma in Computing**
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=NyanLH123&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NyanLH123&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyanLH123&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->**
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,cs,nodejs,mysql,mongodb&perline=5" />
+</p>
+
+---
+
+### 🎓 Education
+**NCC Level 5 Diploma in Computing**
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50" />
+  </a>
+</p>
+
+<br />
+
+</div>
