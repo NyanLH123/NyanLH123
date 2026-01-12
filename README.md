@@ -8,7 +8,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,py,cs,nodejs,mysql,mongodb&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,php,py,cs,nodejs,mysql,mongodb,figma,git&perline=10" />
 </p>
 
 ---
