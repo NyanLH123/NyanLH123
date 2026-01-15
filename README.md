@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left-end">
 
 # Hello, I am Nyan Linn Htet 👨‍💻
 **Web Developer | NCC Level 5 Diploma in Computing**
@@ -7,7 +7,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="center">
+<p align="left-end">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,react,php,py,cs,nodejs,mysql,mongodb,figma,git&perline=10" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ### 🌐 Connect With Me
 
-<p align="center">
+<p align="left-end">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/nyan-linn-htet-50542a378/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
   </a>
